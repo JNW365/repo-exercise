@@ -1,2 +1,2 @@
 # repo-exercise
-Coursera exercise
+Coursera exercise to learn git/github
